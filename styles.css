@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;   
+    border-left: 6px solid red;
+    border-radius: 10px;    
+   
+}
+
+.border-blue {
+    border-left: 1px solid red;
+}
+
+h3:hover{
+    background-color: gold;
+    font-size:bolder;
+}
+
+
